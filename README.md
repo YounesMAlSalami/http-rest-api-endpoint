@@ -1,4 +1,4 @@
-# Assignment 10 — PHP HTTP REST API
+ PHP HTTP REST API
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
